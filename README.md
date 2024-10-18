@@ -1,9 +1,7 @@
 # hello-world
-Hello World repository for learning processes on github
-This is an example repository for the Git tutorial on https://www.w3schools.com
+Doctrinae consilium est.
 
-This tutorial focuses mainly on Git and using the GitHub as its remote.
+Dominus verborum et mundus tuus est.
 
-This repository is built step by step in the tutorial.
-
-It nor includes the steps for Github.
+Norrbotten non est finis mundi
+id est introitus mundi.
